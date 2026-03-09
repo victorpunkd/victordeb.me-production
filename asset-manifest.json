@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.0327902a.css",
-    "main.js": "/static/js/main.aba51da9.js",
-    "static/media/icon.png": "/static/media/icon.466a0cdfbcc7e55c2941.png",
-    "index.html": "/index.html",
-    "main.0327902a.css.map": "/static/css/main.0327902a.css.map",
-    "main.aba51da9.js.map": "/static/js/main.aba51da9.js.map"
+    "main.css": "/victordeb.me-production/static/css/main.0327902a.css",
+    "main.js": "/victordeb.me-production/static/js/main.b769f158.js",
+    "static/media/icon.png": "/victordeb.me-production/static/media/icon.466a0cdfbcc7e55c2941.png",
+    "index.html": "/victordeb.me-production/index.html",
+    "main.0327902a.css.map": "/victordeb.me-production/static/css/main.0327902a.css.map",
+    "main.b769f158.js.map": "/victordeb.me-production/static/js/main.b769f158.js.map"
   },
   "entrypoints": [
     "static/css/main.0327902a.css",
-    "static/js/main.aba51da9.js"
+    "static/js/main.b769f158.js"
   ]
 }
